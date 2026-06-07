@@ -35,7 +35,7 @@ The project utilizes an optimized Star Schema, which ensures high report perform
 ## 🛠️ Technologies and Tools
 * **Power BI Desktop:** Visualization, Modeling, Power Query.
 * **DAX:** Creating measures, dynamic titles, and business logic.
-* **CorelDraw** Background.
+* **CorelDraw:** Background.
 
 ## 📥 How to Run the Project?
 1. Download the `Adventureworks PowerBi Cohort Analysis.pbix` file from this repository.
