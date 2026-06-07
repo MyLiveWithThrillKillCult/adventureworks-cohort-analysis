@@ -13,12 +13,16 @@ The report stands out with its clean, minimalist design (light background, subtl
 ### 1. Gross Profit <-> Demographics Relationship
 Answers the question: *What demographic and geographical factors drive our profitability?*
 
+![Gross Profit Demographics Dashboard](images/AdventureworksPowerBiCohortAnalysis-dashboard-1.png)
+
 * **Gross profit by time period:** Area chart showing gross profit trends over time.
 * **Demographic analysis:** Profit breakdown by gender (donut chart), age (histogram), and location (treemap divided by continents).
 * **Categories tree:** Interactive decomposition tree allowing seamless navigation from overall profit ($10.42M) down to specific product lines, classes, categories, and subcategories (e.g., Bikes -> Road Bikes).
 
 ### 2. Client Profile <-> Products Relationship
 Answers the question: *Which products are popular within a cohort with specific criteria?*
+
+![Client Profile Products Dashboard](images/AdventureworksPowerBiCohortAnalysis-dashboard-2.png)
 
 * **Advanced sidebar (Cohort filters):** Allows for deep customer segmentation based on marital status, gender, age, yearly income, number of cars owned, occupation, number of children, and homeownership.
 * **Top products by quantity sold:** Dynamic ranking of best-selling products for the selected target group.
@@ -35,9 +39,9 @@ The project utilizes an optimized Star Schema, which ensures high report perform
 ## 🛠️ Technologies and Tools
 * **Power BI Desktop:** Visualization, Modeling, Power Query.
 * **DAX:** Creating measures, dynamic titles, and business logic.
-* **CorelDraw:** Background.
+* **Figma / PowerPoint:** Background and GA4-style UI/UX layout. *(Change this if you used a different tool for the background)*
 
 ## 📥 How to Run the Project?
-1. Download the `Adventureworks PowerBi Cohort Analysis.pbix` file from this repository.
+1. Download the `.pbix` file from this repository.
 2. Open the file using the free Power BI Desktop application.
 3. Explore the data! Use the right-hand panel on the "Client profile" tab to create your own cohorts and watch the charts update.
