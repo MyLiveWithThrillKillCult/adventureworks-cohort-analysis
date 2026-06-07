@@ -35,9 +35,9 @@ The project utilizes an optimized Star Schema, which ensures high report perform
 ## 🛠️ Technologies and Tools
 * **Power BI Desktop:** Visualization, Modeling, Power Query.
 * **DAX:** Creating measures, dynamic titles, and business logic.
-* **Figma / PowerPoint:** Background and GA4-style UI/UX layout. *(Change this if you used a different tool for the background)*
+* **CorelDraw** Background.
 
 ## 📥 How to Run the Project?
-1. Download the `[Your_File_Name].pbix` file from this repository.
+1. Download the `Adventureworks PowerBi Cohort Analysis.pbix` file from this repository.
 2. Open the file using the free Power BI Desktop application.
 3. Explore the data! Use the right-hand panel on the "Client profile" tab to create your own cohorts and watch the charts update.
